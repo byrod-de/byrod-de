@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @byrod-de
 - 👀 I’m interested in random stuff :-) 
-- 🌱 I’m currently learning Python and JavaScript 
-- 📫 How to reach me ...
+- 🌱 I'm new at Node.js and JavaScript
+- 🔥 Where code ends, life begins. Coffee helps.
+- Discord: @byrod
 
 <!---
 byrod-de/byrod-de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
